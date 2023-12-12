@@ -40,9 +40,8 @@ console.log(sum / numbers.length);
 ```
 
 
-
-<img src="images/Screenshot 2023-12-12 at 11.45.23 AM.png" width="100" height="100">
-<img src="images/Screenshot 2023-12-12 at 11.45.29 AM.png" width="100" height="100">
-<img src="images/Screenshot 2023-12-12 at 12.02.45 PM.png" width="100" height="100">
+![Image](images/Screenshot%202023-12-12%20at%2011.45.23%20AM.png)
+![Image](images/Screenshot%202023-12-12%20at%2011.45.29%20AM.png)
+![Image](images/Screenshot%202023-12-12%20at%2012.02.45%20PM.png)
 
 
